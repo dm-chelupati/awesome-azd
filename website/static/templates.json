@@ -3127,5 +3127,22 @@
       "managedidentity",
       "monitor"
     ]
+  },
+   {
+    "title": "Azure Functions OpenAI Search Python",
+    "description": "This sample contains an Azure Function using OpenAI bindings extension to highlight OpenAI retrieval augmented generation with Azure AI Search.",
+    "preview": "",
+    "website": "https://github.com/dm-chelupati",
+    "author": "Deepthi Chelupati",
+    "source": "https://github.com/Azure-Samples/azure-functions-openai-aisearch-python",
+    "tags": [
+      "new",
+      "azurefunctions",
+      "community",
+      "aisearch",
+      "openai",
+      "ai",
+      "RAG"
+    ]
   }
 ]
