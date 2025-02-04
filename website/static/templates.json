@@ -826,6 +826,23 @@
     ]
   },
   {
+    "title": "Azure Functions - write your data into OpenAI search and retrieve using RAG (Python v2 Function)",
+    "description": "This sample contains an Azure Function using OpenAI bindings extension to highlight OpenAI retrieval augmented generation with Azure AI Search.",
+    "preview": "./templates/images/test.png",
+    "website": "https://github.com/Azure-Samples",
+    "author": "Deepthi Chelupati",
+    "source": "https://github.com/Azure-Samples/azure-functions-openai-aisearch-python",
+    "tags": [
+      "functions",
+      "aisearch",
+      "bindings",
+      "python",
+      "azureai",
+      "ai",
+      "msft"
+    ]
+  }
+  {
     "title": "Flask Container with CDN",
     "description": "A simple pos website written with Python Flask and Bootstrap. Can be run locally with Docker and then deployed to Azure Container Apps with an Azure CDN in front.",
     "preview": "./templates/images/flask-cdn-container-app.png",
